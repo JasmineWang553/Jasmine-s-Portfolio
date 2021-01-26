@@ -16,18 +16,23 @@
 ### [Stat-333-Project-Yelp-Rating-Prediction](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction) -- Multiple Linear Regression
 - **Intro**: Yelp is a site where users can write online reviews for places they visit. 
 - **Goal**: We are given data that includes each review’s text, as well as several other characteristics of each review. We are aiming to use a sample of Yelp restaurant reviews to produce a model that will allow us to predict the star ratings of other Yelp restaurant reviews. Although there are better ways to make predictions, such as machine learning, this class focuses on regression analysis, therefore we decided to use multiple linear regression. In order to minimize the mean square error, we also performed feature extractions from comments of the users. 
-- **Tech used**: Multiple Linear Regression, k fold Cross Validation, R
+- **Tech used**: Multiple Linear Regression, k fold Cross Validation, R<br>
+[Report](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction/blob/main/Team%206%20Summary%20Report.pdf)
+[Slides](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction/blob/main/Team%206%20presentation%20slides%20.pptx)
+
 
 ### [Heart-Failure-Patient-Death-Classification](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification) -- Classification
 - **Intro**:Heart failure (HF) is a serious chronic condition, which occurs when heart muscles are too weak to pump enough oxygen and blood to other organs and can sometimes lead to death. Therefore, it is reasonable to suspect some body conditions are associated with symptoms and mortality in HF, such as older adults or people with high blood pressure may more likely die from HF. 
 - **Goal**: Our goal is to analyze factors contributing to the death of heart failure patients and create a model that predicts if a heart failure patient given different heart conditions and chronic diseases will die or not.
-- **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn
+- **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn<br>
 [Code](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Heart%20Failure%20Patient%20Death%20Classification.ipynb)   [Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf)    [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx)
+
+
 ### [Stat-451-Project-Construction-of-Knowledge-Graph](https://github.com/JasmineWang553/Stat-451-Project-Construction-of-Knowledge-Graph) -- Natural Language Processing
 - **Intro**: Knowledge graph is an abstract data representation that can be constructed from the unstructured text. Such structured representation helps people and machines to understand the information more efficiently. 
 - **Goal**: In this project, our goal is to construct reasonable knowledge graphs from the text appearing our real life. To achieve our goal, we collected and annotated the text data manually from different data sources. Based on our collected text data, we evaluated several method candidates, selected the best method to extract the triplets from sentences, and constructed the knowledge graphs. 
-- **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java
-
+- **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java<br>
+[Report](https://github.com/JasmineWang553/Stat-451-Project-Construction-of-Knowledge-Graph/blob/master/slides%20and%20reports/STAT451.pdf)     [Slides](https://github.com/JasmineWang553/Stat-451-Project-Construction-of-Knowledge-Graph/blob/master/slides%20and%20reports/Stat%20451%20Project%20Slide.pptx)
 
 ## Paper Review
 
