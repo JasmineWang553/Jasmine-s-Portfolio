@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
 You can use the [editor on GitHub](https://github.com/JasmineWang553/Jasmine_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Ching-Wen(Jasmine)'s Portfolio
 
-### Markdown
+## Exploring Datas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Explore-Free-Android-IOS-apps-in-2017-2018 (DataQuest Guided)](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis)
+- **Intro**: For this project, we pretend that we are working as data analysts for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store, and we only build apps that are free to download and install, and our main source of revenue consists of in-app ads.
+- **Goal**: Explore which kind of free apps are more popular on Google play and Apple store and which age group is associated with the popularity.
+- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook
 
-```markdown
-Syntax highlighted code block
+### [Explore-Profitable-Android-IOS-apps-in-2017-2018](https://github.com/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018)
+- **Intro**: Continue on the last project: [Explore-Free-Android-IOS-apps-in-2017-2018](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb), pretend that the company wants revenue from app downloads. The company decided that if this app is successful on Google Play Store then they will also list this app on App Store.
+- **Research Question**: Therefore, we want to build an app and set a reasonable price range. What category and price range should the company choose? 
+- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Machine Learning
 
-**Bold** and _Italic_ and `Code` text
+### Heart-Failure-Patient-Death-Classification
+-**Intro**:Heart failure (HF) is a serious chronic condition, which occurs when heart muscles are too weak to pump enough oxygen and blood to other organs and can sometimes lead to death. Therefore, it is reasonable to suspect some body conditions are associated with symptoms and mortality in HF, such as older adults or people with high blood pressure may more likely die from HF. 
+- **Goal**: Our goal is to analyze factors contributing to the death of heart failure patients and create a model that predicts if a heart failure patient given different heart conditions and chronic diseases will die or not.
+- **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn
 
-[Link](url) and ![Image](src)
-```
+### Stat-451-Project-Construction-of-Knowledge-Graph
+- **Intro**: Knowledge graph is an abstract data representation that can be constructed from the unstructured text. Such structured representation helps people and machines to understand the information more efficiently. 
+- **Goal**: In this project, our goal is to construct reasonable knowledge graphs from the text appearing our real life. To achieve our goal, we collected and annotated the text data manually from different data sources. Based on our collected text data, we evaluated several method candidates, selected the best method to extract the triplets from sentences, and constructed the knowledge graphs. 
+- **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasmineWang553/Jasmine_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Stat-333-Project-Yelp-Rating-Prediction
+- **Intro**: Yelp is a site where users can write online reviews for places they visit. 
+- **Goal**: We are given data that includes each review’s text, as well as several other characteristics of each review. We are aiming to use a sample of Yelp restaurant reviews to produce a model that will allow us to predict the star ratings of other Yelp restaurant reviews. Although there are better ways to make predictions, such as machine learning, this class focuses on regression analysis, therefore we decided to use multiple linear regression. In order to minimize the mean square error, we also performed feature extractions from comments of the users. 
+- **Tech used**: Multiple Linear Regression, k fold Cross Validation, R
