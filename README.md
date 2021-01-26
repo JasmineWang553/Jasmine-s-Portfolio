@@ -1,5 +1,3 @@
-# Ching-Wen\(Jasmine\)'s Portfolio
-
 ## Exploring Datas
 
 ### [Explore-Free-Android-IOS-apps-in-2017-2018 (DataQuest Guided)](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis)
