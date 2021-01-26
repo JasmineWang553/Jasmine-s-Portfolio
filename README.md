@@ -3,13 +3,14 @@
 ### [Explore-Free-Android-IOS-apps-in-2017-2018 (DataQuest Guided)](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis)
 - **Intro**: For this project, we pretend that we are working as data analysts for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store, and we only build apps that are free to download and install, and our main source of revenue consists of in-app ads.
 - **Goal**: Explore which kind of free apps are more popular on Google play and Apple store and which age group is associated with the popularity.
-- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook
+- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
+[Code](https://github.com/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb)
 
 ### [Explore-Profitable-Android-IOS-apps-in-2017-2018](https://github.com/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018)
 - **Intro**: Continue on the last project: [Explore-Free-Android-IOS-apps-in-2017-2018](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb), pretend that the company wants revenue from app downloads. The company decided that if this app is successful on Google Play Store then they will also list this app on App Store.
 - **Research Question**: Therefore, we want to build an app and set a reasonable price range. What category and price range should the company choose? 
-- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook
-
+- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
+[Code](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb)
 
 
 ## Machine Learning
