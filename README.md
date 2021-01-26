@@ -31,7 +31,7 @@
 
 ## Paper Review
 
-### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review)
+### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review/blob/main/CS-532-final-project-Chingwen-Wang-Mo-Xiao.pdf)
 - **Intro**: As technology advances, massive data/texts are generated everyday. It would cost a lot of time and money to read through every single document to find the information we needed. Therefore, if we can efficiently associate each document with relevant topics it contains, we can improve the process of information retrieval. This goal can be achieved through topic modeling, which discovers abstract topics embedded in a collection of documents. 
 - **Goal**: In this project, we will explore a renowned method of topic modeling, latent semantic analysis (LSA), which uses a singular value decomposition (SVD) approach [(Gong & Liu, 2001)](https://www.cs.bham.ac.uk/~pxt/IDA/text_summary.pdf). Also, we would like to know by incorporating syntactic information [(Kanejiya, Kumar & Prasad, 2003)](https://doi.org/10.3115/1118894.1118902), part of speech [(Kakkonen, Myller & Sutinen, 2006)](https://arxiv.org/abs/cs/0610118), or implementing regularization methods of lasso and ridge regression [(Wang, Q., Xu, J., Li, H., & Craswell, N., 2013)](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/rlsi-tois-revision.pdf) can help improve space and time complexity of LSA.
 
