@@ -1,4 +1,4 @@
-# Ching-Wen(Jasmine)'s Portfolio
+# Ching-Wen\(Jasmine\)'s Portfolio
 
 ## Exploring Datas
 
