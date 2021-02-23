@@ -7,7 +7,7 @@
 [Code](https://github.com/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb)
 
 ### [Explore-Profitable-Android-IOS-apps-in-2017-2018](https://nbviewer.jupyter.org/github/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb)
-- **Intro**: Continue on the last project: [Explore-Free-Android-IOS-apps-in-2017-2018](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb), pretend that the company wants revenue from app downloads. The company decided that if this app is successful on Google Play Store then they will also list this app on App Store.
+- **Intro**: Continue on the last project: [jupyter nbviewer](https://nbviewer.jupyter.org/github/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb), pretend that the company wants revenue from app downloads. The company decided that if this app is successful on Google Play Store then they will also list this app on App Store.
 - **Research Question**: Therefore, we want to build an app and set a reasonable price range. What category and price range should the company choose? 
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
 [Code](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb)
