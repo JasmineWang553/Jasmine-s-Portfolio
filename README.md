@@ -1,3 +1,4 @@
+## Resume
 [Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Ching_Wen_Wang_Resume_2021.pdf)
 
 ## Exploring Data
