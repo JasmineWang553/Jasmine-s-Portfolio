@@ -22,11 +22,11 @@
 [Slides](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction/blob/main/Team%206%20presentation%20slides%20.pptx)
 
 
-### [Heart-Failure-Patient-Death-Classification](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification) -- Classification
+### [Heart-Failure-Patient-Death-Classification](https://nbviewer.jupyter.org/github/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Heart%20Failure%20Patient%20Death%20Classification.ipynb) -- Classification
 - **Intro**:Heart failure (HF) is a serious chronic condition, which occurs when heart muscles are too weak to pump enough oxygen and blood to other organs and can sometimes lead to death. Therefore, it is reasonable to suspect some body conditions are associated with symptoms and mortality in HF, such as older adults or people with high blood pressure may more likely die from HF. 
 - **Goal**: Our goal is to analyze factors contributing to the death of heart failure patients and create a model that predicts if a heart failure patient given different heart conditions and chronic diseases will die or not.
 - **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn<br>
-[Code](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Heart%20Failure%20Patient%20Death%20Classification.ipynb)   [Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf)    [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx)
+[Github](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main)   [Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf)    [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx)
 
 
 ### [Stat-451-Project-Construction-of-Knowledge-Graph](https://github.com/JasmineWang553/Stat-451-Project-Construction-of-Knowledge-Graph) -- Natural Language Processing
