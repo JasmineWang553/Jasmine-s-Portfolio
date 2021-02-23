@@ -1,3 +1,5 @@
+[Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Ching_Wen_Wang_Resume_2021.pdf)
+
 ## Exploring Data
 
 ### [Explore-Free-Android-IOS-apps-in-2017-2018 (DataQuest Guided)](https://nbviewer.jupyter.org/github/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb)
