@@ -1,5 +1,5 @@
 ## Resume
-[Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang%202021.pdf)
+[Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang.pdf)
 [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
 ## Exploring Data
 
