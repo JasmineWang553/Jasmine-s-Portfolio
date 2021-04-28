@@ -20,7 +20,7 @@
 
 ### [COVID and Lung Disease Detection from Xray images]()-- Deep Learning CNN (IN PROGRESS)
 - **Intro**: Failure to detect lung disorders or have delayed diagnosis brings devastating results for the patient. Due to the quick spread of COVID-19, many patients were unable to access required treatments in time. Therefore, in order to address these issues, we are motivated to develop deep learning models that can quickly and accurately classify lung diseases and address them with the corresponding treatments in a timely matter.
-- **Goal**: Build models on detecting Covid-19, Viral Pneumonia, heathy lungs and Lung Opacity from X-rays using deep learning image classification models (CNN): DenseNet, ResNet, AlexNet, and a benchmark model with Logistic Regression.
+- **Goal**: Build models on detecting Covid-19, Viral Pneumonia, heathy lungs and Lung Opacity from X-rays using deep learning image classification models (CNN): VGG, ResNet, AlexNet, and a benchmark model with Logistic Regression.
 - **Tech used**: Pytorch, pandas, numpy<br>
 
 ### [Heart-Failure-Patient-Death-Classification](https://nbviewer.jupyter.org/github/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Heart%20Failure%20Patient%20Death%20Classification.ipynb) -- Classification
