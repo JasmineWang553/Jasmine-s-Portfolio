@@ -6,9 +6,9 @@
 
 ## Contact Info<a name="Contact_info"></a>
 - [Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang.pdf)
-- <br>[LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
-- <br>Email: jasminewang6026@gmail.com
-- <br>Phone: +1 312-307-2291
+- [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
+- Email: jasminewang6026@gmail.com
+- Phone: +1 312-307-2291
 
 ## Exploring Data<a name="exploring_data"></a>
 
