@@ -1,13 +1,14 @@
 ## Table of Contents
 - [Contact Info](#Contact_info)
-- Exploring Data
-- Machine Learning
-- Paper Review
+- [Exploring Data](#exploring_data)
+- [Machine Learning](#machine_learning)
+- [Paper review](#paper_review)
 
 ## Contact Info<a name="Contact_info"></a>
 [Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang.pdf)
 [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
-## Exploring Data
+
+## Exploring Data<a name="exploring_data"></a>
 
 ### [No-show-medical-appointments](https://nbviewer.jupyter.org/github/JasmineWang553/No-show-medical-appointments/blob/main/NoShowAppointment%20analysis.ipynb)
 - **Intro**: It is not uncommon that people don't show up for medical appointments and miss their chance to receive proper treatments. Different reasons may be present such as forgetting appointments or something urgent had happened. Therefore, it would be helpful to understand the factors affecting people showing up on appointments and predict if a patient will miss their appointment or not next time. The predictions can further help medical staffs to know which patients may need extra reminders.
@@ -28,7 +29,7 @@
 [Repository](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis)
 
 
-## Machine Learning
+## Machine Learning<a name="machine_learning"></a>
 
 
 ## [COVID and Lung Disease Detection from Xray images](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data)
@@ -58,7 +59,7 @@
 - **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java<br>
 [Report](https://github.com/JasmineWang553/Stat-451-Project-Construction-of-Knowledge-Graph/blob/master/slides%20and%20reports/STAT451.pdf)     [Slides](https://github.com/JasmineWang553/Stat-451-Project-Construction-of-Knowledge-Graph/blob/master/slides%20and%20reports/Stat%20451%20Project%20Slide.pptx)
 
-## Paper Review
+## Paper Review<a name="paper_review"></a>
 
 ### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review/blob/main/CS-532-final-project-Chingwen-Wang-Mo-Xiao.pdf)
 - **Intro**: As technology advances, massive data/texts are generated everyday. It would cost a lot of time and money to read through every single document to find the information we needed. Therefore, if we can efficiently associate each document with relevant topics it contains, we can improve the process of information retrieval. This goal can be achieved through topic modeling, which discovers abstract topics embedded in a collection of documents. 
