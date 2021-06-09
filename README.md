@@ -44,7 +44,7 @@
 - **Goal**: Our goal is to analyze factors contributing to the death of heart failure patients and create a model that predicts if a heart failure patient given different heart conditions and chronic diseases will die or not.
 - **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn<br>
 - **Award**: Best Oral Presentation<br>
-[Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf) | [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx) | [Repository](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/README.md)
+[Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf) [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx) [Repository](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/README.md)
 
 ### [Stat-333-Project-Yelp-Rating-Prediction](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction) -- Multiple Linear Regression
 - **Intro**: Yelp is a site where users can write online reviews for places they visit. 
