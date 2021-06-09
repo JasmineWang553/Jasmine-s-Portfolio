@@ -34,7 +34,7 @@
 ## Machine Learning<a name="machine_learning"></a>
 
 
-### [COVID and Lung Disease Detection from Xray images](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data)
+### [COVID and Lung Disease Detection from Xray images](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data) -- Computer Vision (Deep )
 - **Intro**: Due to the quick spread of COVID-19, many patients were unable to access required treatments in time. Therefore, we are motivated to develop deep learning models that can quickly and accurately classify lung diseases and address them with the appropriate treatments in a timely matter.
 - **Goal**: Find the best model with lowest misclassification rate for certainly contagious disease such as COVID and Viral Pneumonia, and highest test set accuracy. Utilizing transfer learning on Pytorch pretrained Convolutional Neural Networks (CNN): ResNet, VGG, AlexNet, and a benchmark model with Logistic Regression to predict correct class labels Covid-19, Viral Pneumonia, normal(healthy) and Lung Opacity(non covid, non viral pneumonia infections) from X-ray images. 
 - **Tech used**: Pytorch, pandas, numpy, opencv, matplotlib<br>
