@@ -3,17 +3,23 @@
 [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
 ## Exploring Data
 
+### [No-show-medical-appointments](https://nbviewer.jupyter.org/github/JasmineWang553/No-show-medical-appointments/blob/main/NoShowAppointment%20analysis.ipynb)
+- **Intro**: It is not uncommon that people don't show up for medical appointments and miss their chance to receive proper treatments. Different reasons may be present such as forgetting appointments or something urgent had happened. Therefore, it would be helpful to understand the factors affecting people showing up on appointments and predict if a patient will miss their appointment or not next time. The predictions can further help medical staffs to know which patients may need extra reminders.
+- **Goal**: What are the factors that most correlate with the show-up rate of medical appointments?
+- **Tech used**: Matplotlib, Seaborn, Jupyter Notebook, Pandas, scikit-learn(LogisticRegression)
+[Repository](https://github.com/JasmineWang553/No-show-medical-appointments)
+
 ### [Explore-Free-Android-IOS-apps-in-2017-2018 (DataQuest Guided)](https://nbviewer.jupyter.org/github/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb)
 - **Intro**: For this project, we pretend that we are working as data analysts for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store, and we only build apps that are free to download and install, and our main source of revenue consists of in-app ads.
 - **Goal**: Explore which kind of free apps are more popular on Google play and Apple store and which age group is associated with the popularity.
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
-[Code](https://github.com/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb)
+[Repository](https://github.com/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018)
 
 ### [Explore-Profitable-Android-IOS-apps-in-2017-2018](https://nbviewer.jupyter.org/github/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb)
 - **Intro**: Continue on the last project: [jupyter nbviewer](https://nbviewer.jupyter.org/github/JasmineWang553/DQ_Explore-Android-IOS-apps-in-2017-2018/blob/main/DQ%20guided_What%20type%20of%20Free%20App%20attract%20users.ipynb), pretend that the company wants revenue from app downloads. The company decided that if this app is successful on Google Play Store then they will also list this app on App Store.
 - **Research Question**: Therefore, we want to build an app and set a reasonable price range. What category and price range should the company choose? 
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
-[Code](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis/blob/master/Explore%20profitable%20IOS%20%26%20Android%20App%20Analysis.ipynb)
+[Repository](https://github.com/JasmineWang553/Profitable-IOS-android-app-analysis)
 
 
 ## Machine Learning
