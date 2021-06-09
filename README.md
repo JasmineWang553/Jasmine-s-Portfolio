@@ -5,10 +5,10 @@
 - [Paper review](#paper_review)
 
 ## Contact Info<a name="Contact_info"></a>
-[Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang.pdf)
-<br>[LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
-<br>Email: jasminewang6026@gmail.com
-<br>Phone: +1 312-307-2291
+- [Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang.pdf)
+- <br>[LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
+- <br>Email: jasminewang6026@gmail.com
+- <br>Phone: +1 312-307-2291
 
 ## Exploring Data<a name="exploring_data"></a>
 
@@ -34,7 +34,7 @@
 ## Machine Learning<a name="machine_learning"></a>
 
 
-## [COVID and Lung Disease Detection from Xray images](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data)
+### [COVID and Lung Disease Detection from Xray images](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data)
 - **Intro**: Due to the quick spread of COVID-19, many patients were unable to access required treatments in time. Therefore, we are motivated to develop deep learning models that can quickly and accurately classify lung diseases and address them with the appropriate treatments in a timely matter.
 - **Goal**: Find the best model with lowest misclassification rate for certainly contagious disease such as COVID and Viral Pneumonia, and highest test set accuracy. Utilizing transfer learning on Pytorch pretrained Convolutional Neural Networks (CNN): ResNet, VGG, AlexNet, and a benchmark model with Logistic Regression to predict correct class labels Covid-19, Viral Pneumonia, normal(healthy) and Lung Opacity(non covid, non viral pneumonia infections) from X-ray images. 
 - **Tech used**: Pytorch, pandas, numpy, opencv, matplotlib<br>
@@ -44,7 +44,7 @@
 - **Goal**: Our goal is to analyze factors contributing to the death of heart failure patients and create a model that predicts if a heart failure patient given different heart conditions and chronic diseases will die or not.
 - **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn<br>
 - **Award**: Best Oral Presentation
-[Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf)    [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx)
+[Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf) | [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx) | [Repository](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/README.md)
 
 ### [Stat-333-Project-Yelp-Rating-Prediction](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction) -- Multiple Linear Regression
 - **Intro**: Yelp is a site where users can write online reviews for places they visit. 
