@@ -1,4 +1,10 @@
-## Resume
+## Table of Contents
+- [Contact Info](#Contact_info)
+- Exploring Data
+- Machine Learning
+- Paper Review
+
+## Contact Info<a name="Contact_info"></a>
 [Resume](https://github.com/JasmineWang553/Ching-Wen-Jasmine-s-Portfolio/blob/main/Resume%20Ching-Wen%20Wang.pdf)
 [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
 ## Exploring Data
