@@ -45,13 +45,14 @@
 - **Intro**: Due to the quick spread of COVID-19, many patients were unable to access required treatments in time. Therefore, we are motivated to develop deep learning models that can quickly and accurately classify lung diseases and address them with the appropriate treatments in a timely matter.
 - **Goal**: Find the best model with lowest misclassification rate for certainly contagious disease such as COVID and Viral Pneumonia, and highest test set accuracy. Utilizing transfer learning on Pytorch pretrained Convolutional Neural Networks (CNN): ResNet, VGG, AlexNet, and a benchmark model with Logistic Regression to predict correct class labels Covid-19, Viral Pneumonia, normal(healthy) and Lung Opacity(non covid, non viral pneumonia infections) from X-ray images. 
 - **Tech used**: Pytorch, pandas, numpy, opencv, matplotlib<br>
+[Repository](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data)  |  [Report](https://github.com/JasmineWang553/Stat-453-Chest-X-ray-Data/blob/main/STAT_453%20report.pdf)
 
 ### [Heart-Failure-Patient-Death-Classification](https://nbviewer.jupyter.org/github/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Heart%20Failure%20Patient%20Death%20Classification.ipynb) -- Classification
 - **Intro**:Heart failure (HF) is a serious chronic condition, which occurs when heart muscles are too weak to pump enough oxygen and blood to other organs and can sometimes lead to death. Therefore, it is reasonable to suspect some body conditions are associated with symptoms and mortality in HF, such as older adults or people with high blood pressure may more likely die from HF. 
 - **Goal**: Our goal is to analyze factors contributing to the death of heart failure patients and create a model that predicts if a heart failure patient given different heart conditions and chronic diseases will die or not.
 - **Tech used**: Random Forest, Grid Search with Cross Validation, Feature Selection, SciPy, Scikit Learn<br>
 - **Award**: Best Oral Presentation<br>
-[Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf)  |  [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx)  |  [Repository](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/README.md)
+[Repository](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/README.md)  |  [Report](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge%20executive%20report.pdf)  |  [Slides](https://github.com/JasmineWang553/Heart-Failure-Patient-Death-Classification/blob/main/Data%20Challenge.pptx)
 
 ### [Stat-333-Project-Yelp-Rating-Prediction](https://github.com/JasmineWang553/Stat-333-Project-Yelp-Rating-Prediction) -- Multiple Linear Regression
 - **Intro**: Yelp is a site where users can write online reviews for places they visit. 
