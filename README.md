@@ -17,7 +17,7 @@
 - **Intro**: [WeRateDogs](https://twitter.com/dog_rates?lang=en) is a Twitter account that posts pictures of other people’s dogs with a humorous comment and gives them a rating out of 10 per dog in the picture.  However, the uniqueness comes in that the numerator of the rating can exceed the denominator 10, depending on the content. 
 - **Goal**: Therefore it will be interesting to investigate if WeRateDogs' unique rating follows the trend of popularity, which is measured by number of retweets and favorites. 
 - **Tech used**: Twitter API, Tweepy, Requests, JSON, Numpy, Pandas, Seaborn
-<br>[Repository](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis/blob/main/twitter%20data%20wrangle%20%2B%20analysis.ipynb)
+<br>[Repository](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis) [Wrangling Report](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis/blob/main/wrangle_report.pdf) [Analysis Report](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis/blob/main/analysis_report.pdf)
 
 ### [Why people don't show up on medical-appointments](https://nbviewer.jupyter.org/github/JasmineWang553/No-show-medical-appointments/blob/main/NoShowAppointment%20analysis.ipynb)
 - **Intro**: It is not uncommon that people don't show up for medical appointments and miss their chance to receive proper treatments. Different reasons may be present such as forgetting appointments or something urgent had happened. Therefore, it would be helpful to understand the factors affecting people showing up on appointments and predict if a patient will miss their appointment or not next time. The predictions can further help medical staffs to know which patients may need extra reminders.
