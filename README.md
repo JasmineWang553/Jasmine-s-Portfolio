@@ -14,7 +14,7 @@
 
 ### [Twitter-Data-Analysis](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis/blob/main/twitter%20data%20wrangle%20and%20analysis.ipynb)
 
-- **Intro**: [WeRateDogs](https://twitter.com/dog_rates?lang=en) is a Twitter account that posts pictures of other people’s dogs with a humorous comment and gives them a rating out of 10 per dog in the picture.  However, the uniqueness comes in that the numerator of the rating can exceed the denominator 10 depending on the content. 
+- **Intro**: [WeRateDogs](https://twitter.com/dog_rates?lang=en) is a Twitter account that posts pictures of other people’s dogs with a humorous comment and gives them a rating out of 10 per dog in the picture.  However, the uniqueness comes in that the numerator of the rating can exceed the denominator 10, depending on the content. 
 - **Goal**: Therefore it will be interesting to investigate if WeRateDogs' unique rating follows the trend of popularity, which is measured by number of retweets and favorites. 
 - **Tech used**: Twitter API, Tweepy, Requests, JSON, Numpy, Pandas, Seaborn
 <br>[Repository](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis/blob/main/twitter%20data%20wrangle%20%2B%20analysis.ipynb)
