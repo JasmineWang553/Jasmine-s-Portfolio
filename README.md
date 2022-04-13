@@ -10,7 +10,7 @@
 - Email: jasminewang6026@gmail.com
 - Phone: +1 312-307-2291
 
-## Exploring Data<a name="exploring_data"></a>
+## Data Analysis<a name="exploring_data"></a>
 
 ### [Twitter-Data-Analysis](https://github.com/JasmineWang553/Twitter-Data-Wrangling-Analysis/blob/main/twitter%20data%20wrangle%20and%20analysis.ipynb)
 
