@@ -2,7 +2,7 @@ Web Page Version of all Projects- https://jasminewang553.github.io/data-analysis
 
 ## Table of Contents
 - [Data Analysis](#exploring_data)
-- [Machine Learning](#machine_learning)
+- [Machine Learning & Deep Learning](#machine_learning)
 - [Others](#others)
 
 ## Data Analysis<a name="exploring_data"></a>
@@ -24,7 +24,7 @@ Web Page Version of all Projects- https://jasminewang553.github.io/data-analysis
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
 
 
-## Machine Learning<a name="machine_learning"></a>
+## Machine Learning & Deep Learning<a name="machine_learning"></a>
 
 
 ### [COVID and Lung Disease Detection from Xray images](https://github.com/JasmineWang553/Jasmine-s-Portfolio/tree/main/covid19-detection-computer-vision) -- Computer Vision (Deep Learning)
