@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Contact Info](#Contact_info)
-- [Exploring Data](#exploring_data)
+- [Data Analysis](#exploring_data)
 - [Machine Learning](#machine_learning)
 - [Others](#others)
 
