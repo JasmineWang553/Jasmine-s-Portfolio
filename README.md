@@ -52,6 +52,8 @@ Web Page Version of all Projects- https://jasminewang553.github.io/data-analysis
 - **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java<br>
 
 ## Others<a name="others"></a>
+### [Web Scraper for IoT Devices 120522](https://github.com/JasmineWang553/data-analysis-projects/tree/main/web-scraper-google-shopping) (Web Scraper)
+- **Goal**: A web scraper is written using python for gathering prices and brands of popular IoT devices (i.e., phone, tablets, home security... etc.) and saved into an Excel file
 
 ### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review/blob/main/CS-532-final-project-Chingwen-Wang-Mo-Xiao.pdf) (Paper Review)
 - **Intro**: As technology advances, massive data/texts are generated everyday. It would cost a lot of time and money to read through every single document to find the information we needed. Therefore, if we can efficiently associate each document with relevant topics it contains, we can improve the process of information retrieval. This goal can be achieved through topic modeling, which discovers abstract topics embedded in a collection of documents. 
