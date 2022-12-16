@@ -2,7 +2,7 @@
 - [Contact Info](#Contact_info)
 - [Exploring Data](#exploring_data)
 - [Machine Learning](#machine_learning)
-- [Paper review](#paper_review)
+- [Others](#others)
 
 ## Contact Info<a name="Contact_info"></a>
 - [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
@@ -54,9 +54,9 @@
 - **Goal**: In this project, our goal is to construct reasonable knowledge graphs from the text appearing our real life. To achieve our goal, we collected and annotated the text data manually from different data sources. Based on our collected text data, we evaluated several method candidates, selected the best method to extract the triplets from sentences, and constructed the knowledge graphs. 
 - **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java<br>
 
-## Paper Review<a name="paper_review"></a>
+## Others<a name="others"></a>
 
-### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review/blob/main/CS-532-final-project-Chingwen-Wang-Mo-Xiao.pdf)
+### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review/blob/main/CS-532-final-project-Chingwen-Wang-Mo-Xiao.pdf) (Paper Review)
 - **Intro**: As technology advances, massive data/texts are generated everyday. It would cost a lot of time and money to read through every single document to find the information we needed. Therefore, if we can efficiently associate each document with relevant topics it contains, we can improve the process of information retrieval. This goal can be achieved through topic modeling, which discovers abstract topics embedded in a collection of documents. 
 - **Goal**: In this project, we will explore a renowned method of topic modeling, latent semantic analysis (LSA), which uses a singular value decomposition (SVD) approach [(Gong & Liu, 2001)](https://www.cs.bham.ac.uk/~pxt/IDA/text_summary.pdf). Also, we would like to know by incorporating syntactic information [(Kanejiya, Kumar & Prasad, 2003)](https://doi.org/10.3115/1118894.1118902), part of speech [(Kakkonen, Myller & Sutinen, 2006)](https://arxiv.org/abs/cs/0610118), or implementing regularization methods of lasso and ridge regression [(Wang, Q., Xu, J., Li, H., & Craswell, N., 2013)](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/rlsi-tois-revision.pdf) can help improve space and time complexity of LSA.
 
