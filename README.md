@@ -5,10 +5,8 @@
 - [Paper review](#paper_review)
 
 ## Contact Info<a name="Contact_info"></a>
-- [Resume](https://github.com/JasmineWang553/Jasmine-s-Portfolio/blob/main/Ching-Wen_Wang_Resume_2021_final.pdf)
 - [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
 - Email: jasminewang6026@gmail.com
-- Phone: +1 312-307-2291
 
 ## Data Analysis<a name="exploring_data"></a>
 
