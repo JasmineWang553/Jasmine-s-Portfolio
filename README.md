@@ -1,12 +1,7 @@
 ## Table of Contents
-- [Contact Info](#Contact_info)
 - [Data Analysis](#exploring_data)
 - [Machine Learning](#machine_learning)
 - [Others](#others)
-
-## Contact Info<a name="Contact_info"></a>
-- [LinkedIn](https://www.linkedin.com/in/ching-wen-jasmine-wang/)
-- Email: jasminewang6026@gmail.com
 
 ## Data Analysis<a name="exploring_data"></a>
 
