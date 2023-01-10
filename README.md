@@ -18,7 +18,7 @@ Web Page Version of all Projects- https://jasminewang553.github.io/data-analysis
 - **Goal**: What are the factors that most correlate with the show-up rate of medical appointments?
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook, Pandas, scikit-learn(LogisticRegression)<br>
 
-### [Explore-Profitable-Android-IOS-apps-in-2017-2018](https://github.com/JasmineWang553/Jasmine-s-Portfolio/tree/main/profitable-IOS-android-app-analysis)
+### [Explore-Profitable-Android-IOS-apps](https://github.com/JasmineWang553/Jasmine-s-Portfolio/tree/main/profitable-IOS-android-app-analysis)
 - **Intro**: To determine whether or not the company should list their app on Google Play Store or on App Store. Also, in which category and price range should the app be set at?
 - **Research Question**: Which store is more profitable? What category and price range should the company choose for the corresponding shop?
 - **Tech used**: Matplotlib, Seaborn, Jupyter Notebook<br>
@@ -52,7 +52,7 @@ Web Page Version of all Projects- https://jasminewang553.github.io/data-analysis
 - **Tech used**: NetworkX, spaCy, Stanford openIE, Stanford NLP, Stanford Scene Graph Parser, Python, Java<br>
 
 ## Others<a name="others"></a>
-### [Web Scraper for IoT Devices 120522](https://github.com/JasmineWang553/data-analysis-projects/tree/main/web-scraper-google-shopping) (Web Scraper)
+### [Web Scraper for IoT Devices](https://github.com/JasmineWang553/data-analysis-projects/tree/main/web-scraper-google-shopping) (Web Scraper)
 - **Goal**: A web scraper is written using python for gathering prices and brands of popular IoT devices (i.e., phone, tablets, home security... etc.) and saved into an Excel file
 
 ### [Topic Modeling using SVD appraoch](https://github.com/JasmineWang553/CS-532-Project-Topic-modeling-LSA-paper-review/blob/main/CS-532-final-project-Chingwen-Wang-Mo-Xiao.pdf) (Paper Review)
